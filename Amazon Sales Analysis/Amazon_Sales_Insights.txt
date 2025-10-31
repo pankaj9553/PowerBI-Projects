@@ -1,0 +1,74 @@
+Amazon Sales Analysis Dashboard - Insights Summary
+
+1. Overview:
+   This Power BI dashboard presents a comprehensive analysis of Amazon sales data, covering key metrics such as total sales, product quantities, reviews, and category-wise performance.
+   The analysis helps understand sales trends, customer engagement, and profit contributions across categories and time periods.
+
+2. Key Metrics (KPIs):
+   - Year-To-Date (YTD) Sales: $2.18 Million
+   - Quarter-To-Date (QTD) Sales: $811.09K
+   - YTD Products Sold: 27.75K
+   - YTD Reviews: 19.42 Million
+
+3. Category-Wise Performance:
+   - Top Performing Categories:
+       • Men Shoes: $9.40M (43.18% of total YTD sales)
+       • Camera: $4.92M (22.62%)
+       • Men Clothes: $3.57M (16.42%)
+   - Moderate Performers:
+       • Car Accessories: $2.37M (10.9%)
+       • Toys: $1.10M (5.09%)
+   - Lowest Performer:
+       • Mobile & Accessories: $39.18K (1.8%)
+
+4. Sales Trend Insights:
+   - Weekly Sales: Peaks observed during week numbers 36–40 and 50, indicating strong holiday season performance.
+   - Monthly Sales: Consistent growth from August, with major spikes in September and sustained high performance through December.
+
+5. Product-Level Insights:
+   - Top 5 Products by YTD Sales:
+       1. Atomos Ninja V
+       2. Solid Gear SGUS808
+       3. Canal Toys Photo Creator
+       4. Vince Camuto
+       5. Kodak Step Slim
+   - These products contribute significantly to the overall YTD revenue, primarily from Electronics and Fashion categories.
+
+6. Customer Engagement (Reviews Analysis):
+   - Most reviewed categories:
+       • Mobile & Accessories: ~5M reviews
+       • Men Shoes: ~5M reviews
+       • Toys and Men Clothes also show high review engagement.
+   - Cameras and Car Accessories receive lower reviews despite higher sales share — indicating potential areas for marketing improvement.
+
+7. Category-Performance Correlation:
+   - High positive correlation between sales and customer reviews in Men Shoes and Mobile & Accessories.
+   - However, certain high-selling products have lower engagement (e.g., Cameras) — indicating a gap in customer feedback or review collection.
+
+8. Time-Based Observations:
+   - Q4 demonstrates highest sales due to festive season offers and campaigns.
+   - Strong growth pattern from mid-year onwards; indicates success of marketing campaigns and seasonal offers.
+
+9. Key Insights Summary:
+   - Footwear and Electronics drive majority of total revenue.
+   - Strong seasonality effect with spikes during festive and end-of-year sales.
+   - Customer engagement aligns with sales performance for most categories but not all.
+   - High dependency on a few top-selling categories — potential risk of category imbalance.
+
+10. Business Recommendations (Focus Areas):
+    a. **Expand Underperforming Categories:
+       - Increase visibility and marketing spend for Mobile & Accessories, Car Accessories, and Toys.
+       - Introduce bundle offers or category discounts.
+    b. **Customer Engagement Improvement:
+       - Encourage product reviews via incentives or loyalty programs to boost engagement.
+    c. **Optimize Promotions:
+       - Plan targeted campaigns during non-peak months to balance sales throughout the year.
+       - Leverage high sales weeks (36–40, 50) for major promotional pushes.
+    d. **Enhance Product Portfolio:
+       - Add more high-margin items in top-performing categories.
+       - Reduce over-dependence on a few product lines.
+    e. **Data-Driven Pricing:
+       - Analyze price sensitivity across categories to optimize discounts and maintain profitability.
+    f. **Customer Retention:
+       - Use reviews and ratings data to improve product quality feedback loop and maintain customer trust.
+
