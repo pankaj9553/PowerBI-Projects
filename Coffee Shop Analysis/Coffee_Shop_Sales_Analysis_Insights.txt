@@ -1,0 +1,54 @@
+
+COFFEE SHOP SALES ANALYSIS REPORT INSIGHTS
+
+1. OVERVIEW:
+This Power BI dashboard provides a comprehensive overview of coffee shop sales performance across locations, time periods, and product categories. It helps in identifying key trends, customer preferences, and areas of improvement.
+
+2. KEY PERFORMANCE INDICATORS (KPIs):
+- Total Sales: $6,98,812
+- Total Transactions: 1,49,116
+- Total Quantity Sold: 2,14,470
+
+These KPIs indicate a high-volume business with a diverse product mix and consistent demand throughout the day.
+
+3. SALES DISTRIBUTION INSIGHTS:
+
+A. BY PRODUCT TYPE:
+- Top-selling items include Brewed Coffee, Gourmet Coffee, and Barista Espresso.
+- Premium items like Scones and Organic Brew Coffee have lower sales, suggesting niche demand or potential for better promotion.
+
+B. BY PRODUCT CATEGORY:
+- Coffee contributes the highest sales volume, followed by Tea and Bakery items.
+- Drinking chocolate and flavours have lower contribution but can be promoted via combo offers.
+
+C. BY SIZE:
+- Large and Regular sizes account for most of the sales (over 55% combined).
+- Small size drinks contribute less, indicating customers prefer more value or larger servings.
+
+D. BY LOCATION:
+- Sales are evenly distributed across Astoria, Hell’s Kitchen, and Lower Manhattan.
+- Suggests consistent brand performance across regions.
+
+E. BY HOUR:
+- Sales peak between 8 AM to 10 AM, aligning with morning rush hours.
+- Significant drop after 12 PM indicates opportunity for afternoon promotions and evening combos.
+
+4. TOP PRODUCTS BY QUANTITY:
+- Leading products: Ethiopian, Columbian Medium, Brazilian, and Jamaican Coffee.
+- These popular blends can be featured in loyalty programs and marketing campaigns.
+
+5. KEY INSIGHTS & RECOMMENDATIONS:
+--> Morning peak hours should be leveraged with express service or breakfast combos.
+--> Introduce mid-day offers to boost sales post 12 PM.
+--> Promote underperforming categories (Tea, Bakery) through cross-selling or discounts.
+--> Loyalty programs for high-value customers can enhance repeat purchases.
+--> Introduce digital ordering or delivery during non-peak hours to increase utilization.
+--> Seasonal beverages and limited-time flavours can drive novelty and engagement.
+
+6. BUSINESS FOCUS AREAS:
+- Enhance marketing of premium and low-performing products.
+- Focus on increasing average transaction value through upselling.
+- Optimize staff schedules around peak morning hours.
+- Track customer preferences by location to plan targeted campaigns.
+
+Overall, this analysis provides actionable insights for improving sales efficiency, optimizing product mix, and enhancing customer experience across coffee shop branches.
