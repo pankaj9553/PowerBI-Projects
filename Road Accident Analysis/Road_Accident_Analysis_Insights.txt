@@ -1,0 +1,57 @@
+
+ROAD ACCIDENT ANALYSIS DASHBOARD INSIGHTS
+
+🔹 OVERVIEW
+The Road Accident Analysis Dashboard provides insights into the trends and distribution of road casualties across different vehicle types, road types, and light conditions. It compares current year (CY) statistics with the previous year (PY) to assess improvements or deterioration in road safety.
+
+🔹 KEY METRICS
+- CY Casualties: 195.7K (↓ 11.9% from last year)
+- CY Accidents Count: 144.4K (↓ 11.7%)
+- CY Fatal Casualties: 2.9K (↓ 33.3%)
+- CY Serious Casualties: 27K (↓ 16.2%)
+- CY Slight Casualties: 165.8K (↓ 11.5%)
+
+Overall, there is a positive trend — most categories show a decline, indicating improved road safety.
+
+🔹 CASUALTIES BY VEHICLE TYPE
+- Car: 155,804 (highest casualties contributor)
+- Van: 15,905
+- Bike: 15,610
+- Bus: 6,573
+- Other Vehicles: 1,446
+- Agricultural Vehicles: 399
+
+Cars and two-wheelers account for a large proportion of total casualties, emphasizing the need for stricter safety measures for these segments.
+
+🔹 CASUALTIES TREND (Monthly)
+- Casualties generally increase during mid-year months (May to October).
+- A dip in December likely reflects seasonal or weather-related factors reducing traffic volume.
+
+🔹 CASUALTIES BY LIGHT CONDITIONS
+- Daylight: 74%
+- Darkness: 26%
+Most accidents occur during daylight, suggesting that high traffic density rather than visibility might be a major factor.
+
+🔹 CASUALTIES BY ROAD TYPE
+- Single Carriageway: 145K (dominant contributor)
+- Dual Carriageway: 32K
+- Roundabout: 13K
+- One Way & Slip Roads: ~3K each
+
+Single carriageways account for the majority of accidents, highlighting infrastructure and speed management concerns.
+
+🔹 CASUALTIES BY AREA TYPE
+- Urban: 62%
+- Rural: 38%
+Urban areas see more accidents, possibly due to higher traffic congestion and pedestrian activity.
+
+🔹 GEOGRAPHICAL DISTRIBUTION
+A map visualization shows concentration of accidents across the United Kingdom, with high-density clusters around London, Manchester, Birmingham, and Glasgow.
+
+🔹 CONCLUSION
+--> Positive decline in total and fatal casualties.
+--> Cars and bikes remain major contributors to accidents.
+--> Urban and single carriageway roads require focused safety interventions.
+--> Daytime accidents dominate — awareness on safe driving during peak hours can further reduce casualties.
+
+This dashboard serves as an essential tool for transport authorities and policymakers to plan targeted road safety strategies and monitor annual progress.
