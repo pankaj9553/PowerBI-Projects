@@ -1,0 +1,68 @@
+
+SALES & PROFIT DASHBOARD INSIGHTS
+
+🔹 OVERVIEW
+The Sales & Profit Dashboard provides a comprehensive overview of total sales performance, profit trends, and customer insights across categories, sub-categories, and regions. It tracks yearly and monthly performance to identify top-performing areas and potential improvement zones.
+
+🔹 KEY METRICS
+- Total Sales: 1,929K
+- Total Profit: 248K
+
+This reflects strong overall business performance with consistent profit growth over the analyzed period.
+
+🔹 PROFIT BY YEAR (2021–2024)
+- 2021: 23K (Furniture), 21K (Office Supplies), 5K (Technology)
+- 2022: 25K (Furniture), 34K (Office Supplies), 3K (Technology)
+- 2023: 35K (Furniture), 40K (Office Supplies), 7K (Technology)
+- 2024: 25K (Furniture), 27K (Office Supplies), 2K (Technology)
+
+📈 Office Supplies and Furniture categories show steady profit growth, with peak profits recorded in 2023. Technology profit remains comparatively lower, suggesting higher operational or acquisition costs.
+
+🔹 SALES BY SUB-CATEGORY (Top Performers)
+1. Phones – 191K
+2. Chairs – 169K
+3. Storage – 168K
+4. Tables – 167K
+5. Machines – 139K
+6. Accessories – 119K
+
+Phones, Chairs, and Storage lead sales, driving significant revenue for the organization.
+
+🔹 COUNT OF CUSTOMERS (BY YEAR)
+- 2021: 1.63K
+- 2022: 1.99K
+- 2023: 2.59K
+- 2024: 2.1K
+
+Customer count increased steadily up to 2023, showing business growth and improved customer reach. Slight decline in 2024 suggests potential retention challenges.
+
+🔹 SALES BY STATE
+Sales are widely distributed across the U.S., with major concentrations in states like California, Texas, and New York — indicating strong market presence in populous regions.
+
+🔹 SALES BY MONTH
+- Highest Sales: December (241K), November (234K), and October (220K)
+- Lowest Sales: February (60K)
+
+📊 Sales show seasonal growth trends peaking during the holiday months (Q4), suggesting effective promotional strategies.
+
+🔹 TOP 5 CUSTOMER PROFITS
+1. Tamara Chand – 9.0K
+2. Raymond Buch – 6.9K
+3. Sanjit Chand – 5.8K
+4. Adrian Barton – 5.2K
+5. Martinez – 3.9K
+
+These key customers contribute significantly to profitability, making them vital for retention and relationship management.
+
+🔹 CATEGORY INSIGHTS
+- Furniture: Strong in overall sales and profit.
+- Office Supplies: Consistent growth year-over-year.
+- Technology: Moderate sales but low profitability — may need pricing or cost optimization.
+
+🔹 CONCLUSION
+--> Sales and profit show healthy upward trends from 2021–2023.
+--> Slight dip in 2024 customer count signals focus needed on customer retention.
+--> Top products (Phones, Chairs) and loyal customers (Tamara Chand, Raymond Buch) should be prioritized for growth strategies.
+--> Holiday season campaigns drive maximum sales — potential to expand similar promotions to other months.
+
+This dashboard effectively supports strategic decisions related to sales planning, customer segmentation, and profitability optimization.
