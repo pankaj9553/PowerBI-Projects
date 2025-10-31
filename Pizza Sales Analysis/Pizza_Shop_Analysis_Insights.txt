@@ -1,0 +1,89 @@
+
+PIZZA SHOP SALES ANALYSIS REPORT
+
+1. Overview
+The Pizza Shop Analysis dashboard provides a detailed view of sales, orders, and performance trends.
+It helps identify the best-selling pizza categories, customer preferences by time, and improvement areas for revenue growth.
+
+2. Key Performance Indicators (KPIs)
+- Total Revenue: $817.8K
+- Total Orders: 21.35K
+- Total Quantity Sold: 49.57K
+- Average Order Value (AOV): $38.31
+- Average Pizza per Order: 2.32
+
+Interpretation: High order volume and a steady AOV suggest strong and consistent customer demand.
+
+3. Sales Trends
+Orders by Hour:
+- Peak hours: 11 AM - 2 PM and 6 PM - 9 PM (Lunch & Dinner)
+- Early mornings and late nights: Minimal sales
+Recommendation: Increase staffing and offer discounts in off-peak hours.
+
+Orders by Month:
+- Strong in summer (May–August)
+- Dips in September & November
+Recommendation: Launch seasonal offers in low-performing months.
+
+4. Sales by Season
+Spring: 25.7%
+Summer: 25.6%
+Winter: 24.4%
+Fall: 24.3%
+Insight: Steady demand throughout the year.
+
+5. Sales by Category
+Classic: 26.9%
+Supreme: 25.5%
+Veggie: 24.0%
+Chicken: 23.7%
+Insight: Classic pizzas are top-selling; promote Classic + Veggie combos.
+
+6. Sales by Size
+L: 45.9%
+M: 30.5%
+S: 21.8%
+XL & XXL: 1.7%
+Insight: Large pizzas dominate sales; offer bundle deals to boost revenue.
+
+7. Top Performing Pizzas
+By Revenue:
+- The Thai Chicken Pizza
+- The Barbecue Chicken Pizza
+- The California Chicken Pizza
+- The Classic Deluxe Pizza
+- The Spicy Italian Pizza
+
+By Quantity:
+- The Classic Deluxe Pizza
+- The Barbecue Chicken Pizza
+- The Hawaiian Pizza
+- The Pepperoni Pizza
+- The Thai Chicken Pizza
+
+8. Least Performing Pizzas
+By Revenue:
+- The Soppressata Pizza
+- The Spinach Pesto Pizza
+- The Mediterranean Pizza
+- The Green Garden Pizza
+- The Brie Carre Pizza
+
+By Quantity:
+- The Soppressata Pizza
+- The Mediterranean Pizza
+- The Brie Carre Pizza
+- The Green Garden Pizza
+- The Spinach Pesto Pizza
+
+Recommendation: Consider rebranding or discontinuing low-selling pizzas.
+
+9. Insights Summary
+- Focus marketing on Classic & Chicken pizzas.
+- Promote Large-size combos.
+- Improve off-peak and seasonal sales.
+- Optimize operations during lunch & dinner hours.
+
+10. Conclusion
+The Pizza Shop shows strong overall performance with consistent sales across categories and seasons.
+Targeted offers and menu optimization can further enhance profitability.
