@@ -1,0 +1,63 @@
+Bike Sales Analysis Dashboard - Insights Summary
+
+1. Overview:
+   This Power BI dashboard provides an in-depth analysis of the bike sales and resale market. 
+   It covers metrics such as total bike price, resale price, price difference, average mileage, 
+   and key segmentation based on year, brand, seller type, insurance, fuel type, and ownership.
+
+2. Key Metrics (KPIs):
+   - Total Bike Price: $2.24 Billion
+   - Total Resale Price: $1.34 Billion
+   - Price Difference: $905 Million
+   - Percentage Difference: 40.34%
+   - Average Bike Price: $224.33K
+   - Average Resale Price: $133.83K
+   - Total Bikes Sold: 10K
+   - Average Mileage: 67.19 KM/L
+
+3. Performance by Year:
+   - Bike manufacturing volume has increased steadily from 2015 to 2024.
+   - The highest manufacturing output is observed in 2023–2024, indicating business growth.
+
+4. Brand-Wise Insights:
+   - Leading brands by sales and resale value include Yamaha, Kawasaki, KTM, Hero, and Royal Enfield.
+   - Yamaha and Kawasaki have the highest total bike prices, suggesting strong brand demand.
+   - However, the gap between original and resale price is significant, especially for premium brands.
+   - Average bike price is highest for Royal Enfield and Kawasaki, reflecting strong premium market presence.
+
+5. Top Performing Models:
+   - By Quantity: Ray ZR, Ntorq 125, Duke 200, Classic 350, and MT-15 are top-selling models.
+   - By Price: Ray ZR and Vulcan S dominate in total price value.
+   - The data shows steady sales across multiple mid-range models, indicating good brand diversity.
+
+6. Insurance, Owner, and Fuel Type Distribution:
+   - Insurance Type: Active and Expired insurance states are equally distributed (~33% each).
+   - Owner Type: Distribution across first, second, and third owners is almost even, showing a balanced resale market.
+   - Fuel Type: Hybrid, Petrol, and Electric bikes share nearly equal proportions (each ~33%), showing a strong hybrid/electric market trend.
+
+7. Regional Insights:
+   - Punjab, Gujarat, Maharashtra, Tamil Nadu, and Rajasthan are top-performing states in bike sales.
+   - These regions show strong dealership presence and customer demand.
+
+8. Price Distribution Across City Tiers:
+   - Tier 3 cities show higher total bike price sales than Tier 1 and Metro areas.
+   - Indicates strong demand in semi-urban markets, possibly due to rising middle-class purchasing power.
+
+9. Original Price vs Resale Price:
+   - The average depreciation rate is around 40%, suggesting opportunities to improve resale value through maintenance and certification programs.
+   - Yamaha and Kawasaki show higher depreciation compared to Bajaj and TVS.
+
+10. Key Insights Summary:
+    - Market is evenly spread across ownership, insurance, and fuel categories.
+    - Tier 3 cities are emerging as key sales drivers.
+    - Premium bike brands retain customer interest but suffer higher depreciation.
+    - Manufacturing growth trend is positive, indicating increasing supply and demand alignment.
+
+11. Business Recommendations (Focus Areas):
+    a. **Increase Certified Resale Programs:--> Reduce depreciation impact and boost buyer trust.
+    b. **Enhance Marketing in Tier 3 and Semi-Urban Areas:--> These are growing markets with high demand.
+    c. **Promote Electric & Hybrid Bikes:--> Since fuel-type share is balanced, investing in EV marketing can give an edge.
+    d. **After-Sales & Service Packages:--> Offer warranty extensions or maintenance plans to retain resale value.
+    e. **Data-Driven Pricing Strategy:--> Adjust pricing based on brand and model resale performance trends.
+    f. **Expand Dealer Network in Top States:--> Punjab, Gujarat, and Maharashtra show strong sales; increase dealership density there.
+
