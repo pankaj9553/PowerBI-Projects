@@ -1,0 +1,69 @@
+
+HR ANALYTICS DASHBOARD INSIGHTS
+
+1. OVERVIEW:
+This HR Analytics Dashboard provides an in-depth understanding of employee attrition trends, salary distribution, and workforce demographics. 
+It helps HR teams identify the key factors contributing to employee turnover and formulate retention strategies effectively.
+
+2. KEY METRICS:
+- Total Employees: 1,470
+- Total Attrition: 237
+- Attrition Rate: 16.1%
+- Average Age: 37 years
+- Average Salary: $6.5K
+- Average Years at Company: 7 years
+
+These metrics highlight a moderate attrition rate, indicating potential improvement areas in employee satisfaction and engagement.
+
+3. ATTRITION INSIGHTS:
+
+A. BY AGE:
+- Majority of attrition occurs in the 26–35 age group (116 employees), followed by 18–25 (44 employees) and 36–45 (43 employees).
+- Employees in early to mid-career stages are more likely to leave, suggesting opportunities for better career development or incentives for retention.
+
+B. BY GENDER:
+- Males: 140 attritions
+- Females: 79 attritions
+While more males left the organization, the ratio aligns with overall workforce gender distribution.
+
+C. BY EDUCATION:
+- Highest attrition from Life Sciences (38%) and Medical (27%) fields.
+- Technical and Marketing backgrounds show moderate attrition, possibly indicating competitive job markets in these sectors.
+
+D. BY SALARY SLAB:
+- Attrition is concentrated in the lower salary brackets:
+  - Up to 5K: 163 employees
+  - 5K–10K: 49 employees
+  - 10K–15K: 20 employees
+  - 15K+: 5 employees
+Employees in the lowest pay group are leaving at a significantly higher rate — a clear indication that compensation plays a critical role in retention.
+
+E. BY JOB ROLE:
+- Highest attrition roles:
+  - Laboratory Technician: 62
+  - Sales Executive: 57
+  - Research Scientist: 47
+  - Sales Representative: 33
+Frontline and technical staff show higher turnover, suggesting burnout, limited career progression, or workload challenges.
+
+F. BY YEARS AT COMPANY:
+- Peak attrition occurs at 1 year (59 employees), followed by year 2 (19) and year 3 (21).
+This trend reflects difficulties in early-stage employee engagement or onboarding effectiveness.
+
+4. KEY INSIGHTS & RECOMMENDATIONS:
+--> Focus on retaining employees in the 26–35 age bracket through mentorship and growth opportunities.  
+--> Introduce structured onboarding and engagement programs for new hires to reduce early attrition (first 2 years).  
+--> Reassess compensation structure, especially for employees earning below $5K.  
+--> Provide skill development and career advancement paths for high-attrition job roles (Technicians, Sales Executives).  
+--> Conduct satisfaction surveys to identify department-specific issues causing turnover.  
+--> Introduce flexible work policies or recognition programs for mid-level employees to enhance morale.  
+
+5. STRATEGIC FOCUS AREAS:
+- Compensation competitiveness and fairness.
+- Employee development and career progression plans.
+- Improved onboarding and mentorship support.
+- Department-wise retention initiatives for high-turnover roles.
+
+6. SUMMARY:
+The HR Analytics Dashboard enables data-driven decisions to reduce attrition, improve workforce stability, and strengthen employee engagement. 
+Focusing on early-career professionals and lower-salary groups will have the most significant impact on retention rates and organizational productivity.
