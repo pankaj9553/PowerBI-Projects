@@ -1,0 +1,37 @@
+Electric Vehicle Analysis – Insights
+
+1. Overall Adoption
+- Total registered electric vehicles: 150.48K
+- The average electric range across all vehicles is 67.88 KM
+
+2. BEV vs PHEV Distribution
+- BEV Vehicles: 117K (77.6% of total EVs)
+- PHEV Vehicles: 34K (22.4% of total EVs)
+BEVs dominate the market, indicating a strong shift toward fully electric mobility.
+
+3. Growth Trend by Model Year
+- Steady increase from 2010 to 2017.
+- Major spike after 2018 with peak in 2023 (37K vehicles).
+- Slight dip after 2023, likely due to partial data.
+EV adoption surged sharply in the last five years.
+
+4. Top Manufacturers
+- TESLA leads with 69K vehicles.
+- Other major contributors: Nissan (13K), Chevrolet (12K), Ford (8K), BMW (6K), KIA (6K).
+Tesla is the main driver of EV adoption.
+
+5. Popular EV Models
+- Leading models: Model Y, Model 3.
+- Other popular models include LEAF, BOLT EV, VOLT, Model X, Model S.
+
+6. Geographic Distribution
+- High EV adoption in California, Washington, Texas, New York.
+- Lower adoption in central and southern regions.
+Coastal states show stronger EV penetration.
+
+7. CAFV Eligibility
+- 46% vehicles are CAFV eligible.
+Nearly half the EVs benefit from clean-fuel incentives.
+
+Conclusion
+EV adoption in the US is rising rapidly, driven by Tesla and coastal states. BEVs dominate the market, reflecting trust in full-electric mobility. The surge from 2018–2023 highlights advancements in range, infrastructure, and incentives.
