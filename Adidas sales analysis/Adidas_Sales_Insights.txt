@@ -1,0 +1,51 @@
+Adidas Sales Analysis – Insights
+
+1. Overall Performance
+- Total Sales: $900M
+- Total Profit: $332.1M
+- Total Units Sold: 2M
+- Average Margin: 36.91%
+- Average Price per Unit: $45.2
+The business shows strong profitability with healthy margins and high-volume sales.
+
+2. Monthly Sales Trend
+- Peak months: July ($95M), August ($92M), December ($86M)
+- Lowest month: March ($57M)
+Sales rise during mid-year and the holiday season, showing clear seasonal demand patterns.
+
+3. Daily Sales Trend
+- Highest sales day: Friday ($147M)
+- Decline observed toward Monday ($112M)
+Weekends and Fridays contribute the highest revenue, indicating strong end-of-week sales behavior.
+
+4. Sales by Product Category
+Top-performing product categories:
+- Men’s Streetwear
+- Women’s Apparel
+- Men’s Athletic Wear
+- Women’s Streetwear
+Men’s and women’s apparel dominate overall product sales.
+
+5. Sales by Region
+Regional sales distribution:
+- West: 30%
+- Northeast: 21%
+- Southeast: 18%
+- South: 16%
+- Midwest: 15%
+The West region is the strongest market for Adidas.
+
+6. Sales by Retailer
+Top retailers contributing to revenue:
+- West Gear
+- Foot Locker
+- Sports Direct
+- Kohl’s
+- Amazon
+These retailers form the core sales channels, with West Gear contributing the largest share.
+
+7. Sales by State
+Sales are widely distributed across the U.S., with stronger performance in western and northeastern states.
+
+Conclusion
+The Adidas Sales Analysis indicates strong financial performance driven by key product categories, high-performing regions, and top retailers. Seasonal peaks and weekly trends offer insights that can guide marketing, promotions, and inventory management strategies.
