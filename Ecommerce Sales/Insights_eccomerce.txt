@@ -1,0 +1,43 @@
+Ecommerce Sales Dashboard Insights
+
+1. Overall Performance
+- YTD Sales: $11.53M (YoY: -0.83%)
+- YTD Profit: $1.34M (YoY: +4.50%)
+- YTD Quantity Sold: 107K (YoY: -7.29%)
+- Profit Margin: 11.58% (YoY: +5.37%)
+
+2. Product Performance
+
+Top 5 Products YTD Sales:
+- Staple Envelope: $57K
+- Staples: $52K
+- Easy-staple Paper: $47K
+- Staples in Misc Category: $26K
+- KI Adjustable: $22K
+
+Bottom 5 Products YTD Sales:
+- Eldon Jumbo Pro: $380
+- Lexmark X9575: $270
+- Cisco SPA525G2: $250
+- Xerox Blank: $230
+- Rediform S.O.S: $180
+
+3. Regional Insights
+- West Region: 32% of total YTD sales
+- East Region: 28%
+- Central Region: 23%
+- South Region: 16%
+
+4. Category Insights
+- Furniture: +0.73% YoY
+- Office Supplies: -1.22% YoY
+- Technology: -1.37% YoY
+
+5. Shipping Type Insights
+- Standard Class: 61% of shipments
+- Second Class: 19%
+- First Class: 15%
+- Same Day Delivery: 5%
+
+6. Geographic Insights
+- YTD sales distribution across the U.S. shows stronger performance in central and eastern states, with mixed performance in western and southern regions.
