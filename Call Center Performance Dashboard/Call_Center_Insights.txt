@@ -1,0 +1,61 @@
+
+Call Center Dashboard – Insights & Summary
+
+1. Overview
+This Power BI dashboard provides a complete overview of call center performance, analyzing call volume, call duration, response time, customer sentiment, issue reasons, and agent performance across different states and channels.
+It consists of two main report pages:
+- Home View (Summary & Visual Insights)
+- Grid View (Detailed Call-Level Records)
+
+2. Key KPIs
+- Total Calls: 32.9K
+- Total Duration in Hours: 13.74K hours
+- Total Call Duration in Minutes: 824.2K mins
+- Average Call Duration: 25.02 minutes
+- Response Time in %: 75.3%
+
+3. Call Volume Insights
+- Highest calls are observed on Fridays and Thursdays.
+- Weekends (Saturday & Sunday) show lower call activity.
+- Los Angeles, Baltimore, and Chicago are the top call center cities with the most call volume.
+
+4. Call Reason Insights
+- Billing Questions account for the highest number of calls (23.5K).
+- Payments and Service Outages follow with smaller volumes.
+This shows that a majority of customers reach out for billing-related issues.
+
+5. Sentiment Analysis
+- Negative and Neutral sentiments dominate call interactions.
+- Very Positive responses remain the lowest, indicating customer frustration in certain areas.
+
+6. Channel Breakdown
+- Call-Center (Voice) accounts for 32% of total calls.
+- Chatbot and Email channels follow at 25% and 23%.
+- Web calls contribute the least (20%).
+This reflects diverse interaction channels with a strong focus on voice communication.
+
+7. State-Level Performance
+- Highest number of calls originate from the United States region mapped on the dashboard.
+- State-based insights help managers understand where customer service demand is the greatest.
+
+8. Grid View Insights
+- Contains detailed call-level data including:
+  - Caller ID
+  - City
+  - Customer Name
+  - Response Time Category (Within SLA, Above SLA, Below SLA)
+  - Channel
+  - State
+  - Call Reason
+  - Total Call Duration (minutes)
+This view is ideal for quality audits, SLA monitoring, and performance reviews.
+
+9. SLA Performance
+- Majority of interactions fall within SLA, but a notable number fall Above or Below SLA, indicating improvement opportunities in handling times.
+
+10. Summary
+This dashboard provides a strong analytical view of call center operations, enabling:
+- Better staffing decisions based on call patterns
+- Improved SLA and quality monitoring
+- Insightful understanding of customer issues and sentiment
+- Data-driven decision-making for channel optimization
