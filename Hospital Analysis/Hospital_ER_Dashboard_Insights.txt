@@ -1,0 +1,58 @@
+Hospital Emergency Room Dashboard – Insights & Summary
+
+1. Overview
+This Power BI dashboard provides a consolidated view of hospital emergency room performance, patient demographics, wait times, satisfaction levels, referral patterns, and admission outcomes.
+It consists of three main report pages:
+- Consolidated View (Full Overview)
+- Monthly View
+- Patient Details (Record-level view)
+
+2. Key KPIs (Consolidated View)
+- Total Patients: 9216
+- Average Wait Time: 35.3 minutes
+- Patient Satisfaction Score: 4.99
+- No. of Patients Referred: 3816
+
+3. Patient Admission Insights
+- 50.04% of patients were Admitted.
+- 49.96% were Not Admitted.
+
+4. Gender Distribution
+- Male patients are the majority.
+- Female patients form the second-largest group.
+- A very small percentage is Not Confirmed.
+
+5. Patient Age Group Analysis
+- Balanced distribution across all age groups.
+- Slightly higher counts in working-age and senior categories.
+
+6. Patients by Day
+- Patient volume remains consistent throughout the week.
+- Slight increase on weekends.
+
+7. % of Patients Seen Within 30 Minutes
+- 59.32% were seen within target time.
+- 40.68% were seen after 30 minutes.
+
+8. Top 5 Department Referrals
+- General Practice and Orthopedics receive the highest referrals.
+- Physiotherapy and Cardiology see fewer referrals.
+
+9. Patient Race Distribution
+- Highest volumes from White and African American groups.
+- Asian, Pacific Islander, and mixed-race groups follow.
+
+10. Monthly View Insights
+- Trends change dynamically based on Year and Month slicers.
+- Helps detect seasonal or monthly shifts in ER patterns.
+
+11. Patient Details Page
+- Complete record-level view for all patients.
+- Includes race, referral department, wait-time, admission status, etc.
+
+12. Summary
+This dashboard provides a comprehensive analysis of ER operations, helping with:
+- Patient flow management
+- Staffing and scheduling
+- Operational efficiency
+- Demographic-based decision making
