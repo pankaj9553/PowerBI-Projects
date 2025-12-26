@@ -1,0 +1,44 @@
+INSURANCE ATTACH PERFORMANCE – KEY INSIGHTS
+===========================================
+
+1. Overall Performance Summary
+------------------------------
+- The overall Average Insurance Attach Rate is 18%, indicating low overall adoption.
+- The Maximum Attach Rate reaches 100%, proving that full attachment is achievable at store level.
+- Month-over-Month (MoM) growth shows a slight positive increase of 0.1%, indicating stable but slow improvement.
+
+2. Branch-Level Performance
+---------------------------
+- Pune is the top-performing branch with an average attach rate of 27.7%.
+- Delhi NCR follows closely at 24.4%, showing strong potential.
+- Mumbai (17.3%) and Thane (14.9%) fall near the overall average.
+- Gujarat (13.5%) and Telangana (11.8%) are underperforming and require focused interventions.
+
+3. Store-Level Insights
+-----------------------
+- Top-performing stores consistently maintain attach rates above 50%, indicating strong sales execution.
+- Several stores fall under the 'Low Attach' category, pulling down overall performance.
+- High variation within the same branch suggests that performance depends more on store practices than region.
+
+4. Monthly Trend Analysis
+-------------------------
+- Insurance attach rate has steadily improved from August to December.
+- The sharpest improvement is observed between October and November.
+- December maintains the peak level, indicating sustained improvement rather than a temporary spike.
+
+5. Risk & Opportunity Areas
+----------------------------
+- Stores with attach rates below 10% represent immediate improvement opportunities.
+- Medium-performing stores (15–25%) can be converted into high performers through training and incentives.
+- Consistency across months remains a challenge for several stores.
+
+6. Actionable Recommendations
+------------------------------
+- Replicate best practices from top-performing Pune stores across other branches.
+- Introduce targeted training programs for low-attach stores.
+- Track store-level performance weekly to reduce volatility.
+- Align sales incentives with insurance attachment to drive behavioral change.
+
+Conclusion
+----------
+While overall insurance attachment remains low, the presence of high-performing stores and a positive monthly trend indicate strong growth potential. Focused store-level interventions and replication of best practices can significantly improve overall attach performance.
