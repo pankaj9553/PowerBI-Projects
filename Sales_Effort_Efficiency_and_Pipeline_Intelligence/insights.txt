@@ -1,0 +1,52 @@
+SALES PERFORMANCE, EFFORT EFFICIENCY & PIPELINE RISK – KEY INSIGHTS
+=================================================================
+
+1. Overall Sales Performance
+----------------------------
+- Total Deal Value: 165M INR across 23 deals.
+- Only 2 deals converted to wins, resulting in a low win rate of 8.7%.
+- Average Deal Value is high at 7.18M INR, indicating high-ticket opportunities.
+- Revenue per hour stands at 238.10K INR, reflecting strong revenue potential per unit effort.
+
+2. Deal Stage Analysis
+----------------------
+- Approximately 83% of deals are concentrated in the Commercial Review stage.
+- Minimal movement is observed across Consultant Review, Technical Review, and Tender Awarded stages.
+- Significant funnel leakage occurs before deals reach the ‘Deal Won’ stage.
+
+3. Effort & Time Utilization
+----------------------------
+- Total effort invested: 693.65 hours.
+- Average hours per deal: 30.16, indicating high effort intensity.
+- Cost efficiency score of 95.93 suggests optimized cost management.
+- Site visits and technical presentations consume the majority of effort.
+
+4. Company-Level Productivity
+------------------------------
+- A small set of companies accounts for a disproportionate share of total hours.
+- Revenue per hour varies significantly across companies.
+- High-effort, low-revenue accounts represent productivity risks.
+
+5. Trend Observations
+---------------------
+- Deal value trends show month-over-month volatility.
+- Effort peaks mid-year and toward year-end, reflecting pipeline pressure.
+- Increased effort does not always translate into proportional revenue gains.
+
+6. Pipeline Risk Assessment
+---------------------------
+- 22 out of 23 deals remain open, increasing revenue uncertainty.
+- Deal value is heavily weighted toward early pipeline stages.
+- Low conversion from Commercial Review to closure is the primary risk.
+
+7. Strategic Recommendations
+-----------------------------
+- Shift focus from acquiring new deals to closing existing ones.
+- Improve qualification before deals enter Commercial Review.
+- Reduce effort on low-probability opportunities.
+- Track stage-wise conversion rates regularly.
+- Allocate senior resources to high-value, late-stage deals.
+
+Conclusion
+----------
+The business demonstrates strong revenue potential and cost efficiency, but weak deal conversion and pipeline congestion limit realized outcomes. Focused improvements in deal progression and effort allocation can significantly enhance overall performance.
